@@ -1,0 +1,8 @@
+
+
+def sum_100_number_primier():
+    sum = 0
+    for i in range(2, 101):
+        if is_prime(i):
+            sum += i
+    return sum

@@ -1,0 +1,78 @@
+{
+    "test11_creerMolecule": {
+      "name": "TestMolecule: test11_creerMolecule",
+      "points": 5
+    },
+    "test12_moleculeSeTouche1": {
+      "name": "TestMolecule: test12_moleculeSeTouche1",
+      "points": 1
+    },
+    "test12_moleculeSeTouche2": {
+      "name": "TestMolecule: test12_moleculeSeTouche2",
+      "points": 1
+    },
+    "test12_moleculeSeTouche3": {
+      "name": "TestMolecule: test12_moleculeSeTouche3",
+      "points": 1
+    },
+    "test12_moleculeSeTouche4": {
+      "name": "TestMolecule: test12_moleculeSeTouche4",
+      "points": 1
+    },
+    "test12_moleculeSeTouche5": {
+      "name": "TestMolecule: test12_moleculeSeTouche5",
+      "points": 1
+    },
+    "test13_deplacerMolecule": {
+      "name": "TestMolecule: test13_deplacerMolecule",
+      "points": 5
+    },
+    "test15_creerListMolecules": {
+      "name": "TestMolecule: test15_creerListMolecules",
+      "points": 10
+    },
+    "test16_inverseDirMolecule1": {
+      "name": "TestMolecule: test16_inverseDirMolecule1",
+      "points": 2
+    },
+    "test16_inverseDirMolecule2": {
+      "name": "TestMolecule: test16_inverseDirMolecule2",
+      "points": 2
+    },
+    "test16_inverseDirMolecule3": {
+      "name": "TestMolecule: test16_inverseDirMolecule3",
+      "points": 2
+    },
+    "test16_inverseDirMolecule4": {
+      "name": "TestMolecule: test16_inverseDirMolecule4",
+      "points": 2
+    },
+    "test16_inverseDirMolecule5": {
+      "name": "TestMolecule: test16_inverseDirMolecule5",
+      "points": 1
+    },
+    "test16_inverseDirMolecule6": {
+      "name": "TestMolecule: test16_inverseDirMolecule6",
+      "points": 1
+    },
+    "test21_creerReservoir": {
+      "name": "TestReservoir: test21_creerReservoir",
+      "points": 15
+    },
+    "test22_colision": {
+      "name": "TestReservoir: test22_colision",
+      "points":20
+    },
+    "test23_inverseDirMolecules": {
+      "name": "TestReservoir: test23_inverseDirMolecules",
+      "points": 10
+    },
+    "test24_getTemperature": {
+      "name": "TestReservoir: test24_getTemperature",
+      "points": 10
+    },
+    "test26_deplacerMolecules": {
+      "name": "TestReservoir: test26_deplacerMolecules",
+      "points": 10
+    }
+  }

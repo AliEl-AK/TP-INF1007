@@ -1,0 +1,78 @@
+{
+    "test_charger_capsules_df": {
+      "name": "TestFichiersPieces: test_charger_capsules_df",
+      "points": 3
+    },
+    "test_charger_reservoirs_df": {
+      "name": "TestFichiersPieces: test_charger_reservoirs_df",
+      "points": 3
+    },
+    "test_charger_moteurs_df_1": {
+      "name": "TestFichiersPieces: test_charger_moteurs_df_1",
+      "points": 2
+    },
+    "test_charger_moteurs_df_2": {
+      "name": "TestFichiersPieces: test_charger_moteurs_df_2",
+      "points": 2
+    },
+    "test_filtrer_moteurs": {
+      "name": "TestFichiersPieces: test_filtrer_moteurs",
+      "points": 1
+    },
+    "test_filtrer_moteurs_vide": {
+      "name": "TestFichiersPieces: test_filtrer_moteurs_vide",
+      "points": 1
+    },
+    "test_fusee_constructeur_existe": {
+      "name": "TestFuseeConstructeur: test_fusee_constructeur_existe",
+      "points": 2
+    },
+    "test_reservoir_masse_rempli":{
+        "name":"TestFusee: test_reservoir_masse_rempli",
+        "points":1
+    },
+    "test_fusee_str": {
+      "name": "TestFusee: test_fusee_str",
+      "points": 3
+    },
+    "test_fusee_masse": {
+      "name": "TestFusee: test_fusee_masse",
+      "points": 1
+    },
+    "test_fusee_hauteur": {
+      "name": "TestFusee: test_fusee_hauteur",
+      "points": 1
+    },
+    "test_fusee_prix": {
+      "name": "TestFusee: test_fusee_prix",
+      "points": 1
+    },
+    "test_fusee_deltaV": {
+      "name": "TestFusee: test_fusee_deltaV",
+      "points": 3
+    },
+    "test_creer_capsules": {
+      "name": "TestAssemblage: test_creer_capsules",
+      "points": 2
+    },
+    "test_creer_moteurs": {
+      "name": "TestAssemblage: test_creer_moteurs",
+      "points": 2
+    },
+    "test_creer_reservoirs": {
+      "name": "TestAssemblage: test_creer_reservoirs",
+      "points": 2
+    },
+    "test_corps_celestes_accessibles": {
+      "name": "TestAssemblage: test_corps_celestes_accessibles",
+      "points": 2
+    },
+    "test_comparer_fusee": {
+      "name": "TestAssemblage: test_comparer_fusee",
+      "points": 4
+    },
+    "test_main": {
+      "name": "TestMain: test_main",
+      "points": 4
+    }
+  }

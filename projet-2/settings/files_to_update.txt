@@ -1,0 +1,13 @@
+.github/workflows/assignment_tests.yml
+.github/workflows/assignment_grading.yml
+.github/workflows/assignment_deadline.yml
+.github/workflows/verifications.yml
+.github/workflows/update_student_repositories.yml
+.github/workflows/update_template_repositories.yml
+.github/workflows/delete_file.yml
+requirements.txt
+README.md
+test_assignment.py
+settings/files_to_update.txt
+settings/variables.txt
+settings/test_associations.json
